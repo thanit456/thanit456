@@ -7,6 +7,7 @@
   <img align="left" alt="thanit456's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 
+
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on a machine learning engineer as a part time job at Jump AI Co. Ltd (Snaplogic Thailand)
