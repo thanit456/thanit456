@@ -1,4 +1,9 @@
 ### Hi there 👋
+### 🔭 I’m currently working on a machine learning engineer as a part time job at Jump AI Co. Ltd (Snaplogic Thailand)
+### 🌱 I’m currently learning on Computer Vision, Machine Learning, Optimization and MLOps
+### 📫 How to reach me: https://www.linkedin.com/in/thanit-tativannarat-498507178/
+
+![thanit456's github stats](https://github-readme-stats.vercel.app/api?username=thanit456&show_icons=true&theme=onedark)
 
 <!--
 **thanit456/thanit456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
