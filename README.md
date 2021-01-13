@@ -8,11 +8,17 @@
 </a>
 <br/><br/>
 
+**My focusing researchs** 
+- Person re-identification
+- Domain Adaptation and transfer learning 
+- Recommendation system 
+- Conversational system 
+
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on a machine learning engineer as a part time job at Jump AI Co. Ltd (Snaplogic Thailand)
 
-- 🌱 I’m currently learning on Computer Vision, Machine Learning, Optimization and MLOps
+- 🌱 I’m currently learning on Computer Vision, NLP, Machine Learning, Optimization and MLOps
 
 ![thanit456's github stats](https://github-readme-stats.vercel.app/api?username=thanit456&show_icons=true&theme=onedark)
 
