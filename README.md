@@ -8,6 +8,7 @@
 </a>
 <br/><br/>
 
+<space> I'm a native Thai and have just been a fresh graduate computer engineer. Currently, I'm looking an opportunity to study abroad or work abroad including VISA sponsorship. Please feel free to talk with me via the above channels  
 ![thanit456's github stats](https://github-readme-stats.vercel.app/api?username=thanit456&show_icons=true&theme=onedark)
 
 **My focusing researchs** 
