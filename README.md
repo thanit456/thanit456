@@ -24,9 +24,9 @@
 **Talking about Personal Stuffs**
 
 - 🔭 I’m currently working on a data analyst (junior data scientist) at Siam Commercial Bank  
-<space>- Gain some insights about personal loan chatbot
-<space>- Develop Popular Around You feature in Robinhood SCB Food Delivery 
-<space>- Optimize memory usages of recommender system in Robin SCB Food Delivery and make it more scalable 
+<space>- Gain some insights about personal loan chatbot<br/>
+<space>- Develop Popular Around You feature in Robinhood SCB Food Delivery <br/>
+<space>- Optimize memory usages of recommender system in Robin SCB Food Delivery and make it more scalable <br/>
 
 **Work Experiences**
 - Full Stack Data Scientist (Part-time) at Jump AI Co. Ltd (Snaplogic Thailand)
