@@ -13,13 +13,14 @@
 ![thanit456's github stats](https://github-readme-stats.vercel.app/api?username=thanit456&show_icons=true&theme=onedark)
 
 **My focusing researchs** 
-- Geometric deep learning 
+- Medical imaging
+- Radiology 
+- Generative Adversarial Network (GAN)
 - Graph neural network 
 - Person re-identification
 - Recommendation system 
 - 3D deep learning
 - Human pose estimation 
-- Human parsing 
 
 **Talking about Personal Stuffs**
 
@@ -29,7 +30,8 @@
 <space>- Optimize memory usages of recommender system in Robin SCB Food Delivery and make it more scalable <br/>
 
 **Education Experiences**
-- Computer Engineering Department at Chulalongkorn University with (3.58/4.00 GPAX (Second-Class Honour)) 
+- 
+- Computer Engineering Department at Chulalongkorn University with 3.58/4.00 GPAX (Second-Class Honour)
   
 **Work Experiences**
 - Professional Data Analyst (Work as a junior data scientist) at Siam Commercial Bank (SCB) under Data Analytics Function
