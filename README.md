@@ -28,7 +28,11 @@
 <space>- Develop Popular Around You feature in Robinhood SCB Food Delivery <br/>
 <space>- Optimize memory usages of recommender system in Robin SCB Food Delivery and make it more scalable <br/>
 
+**Education Experiences**
+- Computer Engineering Department at Chulalongkorn University with (3.58/4.00 GPAX (Second-Class Honour)) 
+  
 **Work Experiences**
+- Professional Data Analyst (Work as a junior data scientist) at Siam Commercial Bank (SCB) under Data Analytics Function
 - Full Stack Data Scientist (Part-time) at Jump AI Co. Ltd (Snaplogic Thailand)
 - Full Stack Computer Vision Engineer at OxygenAI Co. Ltd
 - Computer Vision Engineer Intern at OxygenAI Co. Ltd 
