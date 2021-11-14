@@ -12,14 +12,14 @@
 <br/>
 ![thanit456's github stats](https://github-readme-stats.vercel.app/api?username=thanit456&show_icons=true&theme=onedark)
 
-**My focusing researchs** 
+**My focusing researchs**
+- Optical Character Recognition (OCR)
+- Scene text detection 
 - Medical imaging
-- Radiology 
-- Generative Adversarial Network (GAN)
-- Graph neural network 
+- Generative Adversarial Network (GAN) 
+- Domain Generalization 
 - Person re-identification
 - Recommendation system 
-- 3D deep learning
 - Human pose estimation 
 
 **Talking about Personal Stuffs**
@@ -28,6 +28,8 @@
 <space>- Gain some insights about personal loan chatbot<br/>
 <space>- Develop Popular Around You feature in Robinhood SCB Food Delivery <br/>
 <space>- Optimize memory usages of recommender system in Robin SCB Food Delivery and make it more scalable <br/>
+<space>- Design and build full pipeline of the OCR engine<br/>
+<space>- Design and develop annotator service to do two-level caching and solving cold-start problem during OCR deployment <br/>
 
 **Education Experiences**
 - 
@@ -42,12 +44,14 @@
 - Software developer Intern at Yannix Co. Ltd 
 - Research Assistant Student at Dr.Peerapon Vateekul's Datamind Lab about Parkinson disease detection 
   
-**Programming Languages**
-- Python (Flask, FastAPI, Pytorch, Tensorflow)
+**Programming Languages and Frameworks**
+- Python (Flask, FastAPI, Pytorch, Tensorflow, PySpark, TensorRT, ONNX, TFLite) 
+- NVIDIA Triton Inference Server
 - Scala 
 - C/C++ 
 - Javascript (Angular)
 - Java 
+- SQL 
 <!--
 **thanit456/thanit456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
