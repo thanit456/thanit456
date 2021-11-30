@@ -12,7 +12,7 @@
 </br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanit456&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<space> I'm a native Thai and have just been a fresh graduate computer engineer. Currently, I'm looking an opportunity to study abroad or work abroad including VISA sponsorship. Please feel free to talk with me via the above channels  
+<space> I'm a native Thai. Currently, I'm looking an opportunity to study abroad or work abroad as a Research Engineer or a Research Scientist including VISA sponsorship. Please feel free to talk with me about both serious and trivial topics via the above channels  
 <br/>
 
 **My focusing researchs**
