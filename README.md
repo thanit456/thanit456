@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm Too <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/thanit-tativannarat-498507178/">
   <img align="left" alt="thanit456's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -49,7 +49,7 @@
 - Research Assistant Student at Dr.Peerapon Vateekul's Datamind Lab about Parkinson disease detection 
   
 **Programming Languages and Frameworks**
-- Python (Flask, FastAPI, Pytorch, Tensorflow, PySpark, TensorRT, ONNX, TFLite) 
+- Python (Flask, FastAPI, Pytorch, Torch-geometric, Tensorflow, PySpark, TensorRT, ONNX, TFLite) 
 - NVIDIA Triton Inference Server
 - Scala 
 - C/C++ 
