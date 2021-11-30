@@ -16,14 +16,15 @@
 <br/>
 
 **My focusing researchs**
+- Knowledge graph
+- Social network graph 
+- Recommendation system in several approaches 
+- Graph-based Neural Network
 - Optical Character Recognition (OCR)
 - Scene text detection 
-- Medical imaging
-- Generative Adversarial Network (GAN) 
-- Domain Generalization 
+- Generative Adversarial Network (GAN)  
+- Denoising Diffusion Probabilistic Model (DDPM)
 - Person re-identification
-- Recommendation system 
-- Human pose estimation 
 
 **Talking about Personal Stuffs**
 
@@ -35,8 +36,8 @@
 <space>- Design and develop annotator service to do two-level caching and solving cold-start problem during OCR deployment <br/>
 
 **Education Experiences**
-- 
-- Computer Engineering Department at Chulalongkorn University with 3.58/4.00 GPAX (Second-Class Honour)
+- (Coming soon) Master degree of Computer Engineering at Chulalongkorn University [Knowledge Graph-based Recommendation System]
+- Bachelor degree of Computer Engineering at Chulalongkorn University with 3.58/4.00 GPAX (Second-Class Honour) [Person re-identification]
   
 **Work Experiences**
 - Professional Data Analyst (Work as a junior data scientist) at Siam Commercial Bank (SCB) under Data Analytics Function
