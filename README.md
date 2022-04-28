@@ -2,10 +2,6 @@
 
 <a href="https://www.linkedin.com/in/thanit-tativannarat-498507178/">
   <img align="left" alt="thanit456's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/me.ixsac">
-  <img align="left" alt="thanit456's facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
 <br/><br/>
 
 ![thanit456's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanit456&hide=issues&theme=dracula&show_icons=true) 
